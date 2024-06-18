@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Hemanth Raj</h1>
+<h3 align="center">I'm just a Random Guy from a small city in Madurai, trying to explore the world through Learning.</h3>
+
 # 💫 About Me:
 🌱 I'm currently learning different ways to implement 3D Designs into a Website using ReactJS and ThreeJS.<br>🔭 I'm currently working on building a Portfolio and Optimizing it.<br>👯 I'm looking to collaborate with anyone who has a Creative Mind and wants to implement Creative Ideas into a Webpage.<br>🤝 I'm looking for help from someone who knows better about Optimizing Webpages.<br>💬 Ask me about anything related to 3D Design or even Video Editing by bringing VFX.<br>⚡ Fun fact: I love spending time sitting in front of a Computer Screen doing Anything.
 
